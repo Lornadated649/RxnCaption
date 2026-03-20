@@ -66,7 +66,7 @@
 ```
 RxnCaption/
 ├── README.md / README_zh.md
-├── LICENSE                    # Apache-2.0
+├── LICENSE                    # CC-BY-NC-4.0
 ├── requirements.txt
 │
 ├── molyolo/                   # 模块 1 — 分子结构检测器（YOLOv10）
