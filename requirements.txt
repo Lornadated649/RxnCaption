@@ -1,0 +1,27 @@
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.45.0
+accelerate>=0.34.0
+
+# YOLOv10 (MolYOLO)
+# Install the bundled ultralytics fork:
+#   pip install -e molyolo/
+# Or the upstream version:
+# ultralytics>=8.0.0
+
+# Vision-Language inference
+ms-swift>=3.0.0
+
+# Image processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Data & reporting
+tqdm>=4.66.0
+openpyxl>=3.1.0
+numpy>=1.24.0
+
+# Optional: training acceleration
+# deepspeed>=0.14.0
+# flash-attn>=2.5.0  # requires CUDA 11.8+
