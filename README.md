@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chuangwang123.github.io/RxnCaption/"><img src="https://img.shields.io/badge/🌐%20Project-Page-8A2BE2" alt="Project Page"></a>
   <a href="https://arxiv.org/abs/2511.02384"><img src="https://img.shields.io/badge/arXiv-2511.02384-b31b1b.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/songjhPKU/RxnCaption-VL"><img src="https://img.shields.io/badge/🤗%20Model-RxnCaption--VL-yellow" alt="Model"></a>
   <a href="https://huggingface.co/datasets/songjhPKU/U-RxnDiagram-15k"><img src="https://img.shields.io/badge/🤗%20Dataset-U--RxnDiagram--15k-blue" alt="Dataset"></a>
